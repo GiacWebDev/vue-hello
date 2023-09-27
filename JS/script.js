@@ -13,7 +13,7 @@ createApp ({
   data() {
     return {
       messaggio: 'ciao mi chiamo Momo',
-      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-ibspn&psig=AOvVaw0nF5bbKGGYJ8TtBuDDn_y4&ust=1695907284861000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCfwozxyoEDFQAAAAAdAAAAABAE'
+      image: 'https://w7.pngwing.com/pngs/225/955/png-transparent-gumball-watterson-anais-watterson-darwin-watterson-cartoon-animated-series-barney-gumble-television-cartoon-vehicle.png'
     }
   }
 
